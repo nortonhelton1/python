@@ -1,0 +1,20 @@
+
+/* body style is applied to body HTML element */
+body {
+    background-color: blue;
+}
+
+ul {
+    background-color: black;
+}
+
+
+.list {
+   background-color: rgb(80, 255, 95);
+   color: white; 
+   font-size: 18px; 
+}
+
+footer {
+    background-color: blue;
+}
