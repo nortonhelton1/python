@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="css/style.5.css"/>
+    <met  a name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<title>Engadget</title>
+
+</head>
+<body>
+
+<body>
+
+    <div id="container"> 
+        <ul id="menu">
+            <li>Home</li>>
+            <li>About Us</li>>
+            <li>Services</li>>   
+            <li>Contact Us</li>
+            <li>FAQ</li>
+        </ul>
+        
+    <div id="banner">
+        <img scr="images/banner.png"
+    </div> 
+
+    <p>
+
+    </p>
+
+    <div id="pictures">
+        
+    <div id="box">
+        <img src="https://www.google.com/search?q=airpod+pictures&rlz=1C1JZAP_enUS922US923&sxsrf=ALeKk01hapRYKU5_ASEKdvWNUyW8Q8uRtg:1626900591392&tbm=isch&source=iu&ictx=1&fir=qIacwLP4jK0KEM%252CKFNyV-l3M9SBpM%252C_&vet=1&usg=AI4_-kQIOrZ5oslWSVddIILn5Kx92S453g&sa=X&ved=2ahUKEwjKsNb-hPXxAhWisDEKHXedD0IQ9QF6BAgPEAE#imgrc=qIacwLP4jK0KEM">
+        <div id = "box-title"></div>
+        <p>This is a popular item you must buy.</p>
+    </div>
+    
+    <div id="box">
+        <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRq5maO9uQywo5AmidKf_AWiTE9umS3Aa66NVJSN3RZguOT2PZZsba8bqjTuJLMGzKw3UzrfIeVnQ&usqp=CAc">
+        <div id = "box-title"></div>
+        <p>This is a popular item you must buy.</p>
+    </div>
+    
+    <div id="box">
+        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJprg-Ee8pQ23ELEyLvFAFbvscrvYhVJ0eHMWG6s2ctWRjorqQDTxcjAvTjw6zG51s46a5aXbL5w&usqp=CAc">
+        <div id = "box-title"></div>
+        <p>This is a popular item you must buy.</p>
+    </div>
+    
+    <div id="box">
+        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0gLPzam1-fucieTjVSTS5XsdIk4dXzqOg2GxEqpYGbpqYYJXf__hjdUT0warbC2R4sFtm4_WLuFY&usqp=CAc">
+        <div id = "box-title"></div>
+        <p>This is a popular item you must buy.</p>
+    </div>
+
+    <div id="box">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6BBmnhzCs-_H4WhFFFMW-1J0KMDWMhnbpHqwtHDOZJTOzC8P4kXEhzaF4m5rYO7BcrNSltEDFgA&s=16">
+        <div id = "box-title"></div>
+        <p>This is a popular item you must buy.</p>
+    </div>
+    
+    <div id="box">
+        <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSdQf9E1QykS9PuE1ZMmumWhEq7U24u6ZmZMLx37h_j3SzUFDrnkONo_aASplHSIDZBg95LAQjc5SdS4W_TwF3lP7av2IUt8X66twKK8xi9&usqp=CAc">
+        <div id = "box-title"></div>
+        <p>This is a popular item you must buy.</p>
+    </div>
+
+    </div>
+  </body>
+</html>             
